@@ -16,6 +16,7 @@
 		5E6715D828681068006E3565 /* QuotesGeneratorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6715D728681068006E3565 /* QuotesGeneratorTests.swift */; };
 		5E6715E228681068006E3565 /* QuotesGeneratorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6715E128681068006E3565 /* QuotesGeneratorUITests.swift */; };
 		5E6715E428681068006E3565 /* QuotesGeneratorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6715E328681068006E3565 /* QuotesGeneratorUITestsLaunchTests.swift */; };
+		5E6715F128681593006E3565 /* Quote.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6715F028681593006E3565 /* Quote.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5E6715DD28681068006E3565 /* QuotesGeneratorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuotesGeneratorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E6715E128681068006E3565 /* QuotesGeneratorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotesGeneratorUITests.swift; sourceTree = "<group>"; };
 		5E6715E328681068006E3565 /* QuotesGeneratorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotesGeneratorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5E6715F028681593006E3565 /* Quote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quote.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				5E6715C928681068006E3565 /* Assets.xcassets */,
 				5E6715CB28681068006E3565 /* LaunchScreen.storyboard */,
 				5E6715CE28681068006E3565 /* Info.plist */,
+				5E6715F028681593006E3565 /* Quote.swift */,
 			);
 			path = QuotesGenerator;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E6715F128681593006E3565 /* Quote.swift in Sources */,
 				5E6715C528681067006E3565 /* ViewController.swift in Sources */,
 				5E6715C128681067006E3565 /* AppDelegate.swift in Sources */,
 				5E6715C328681067006E3565 /* SceneDelegate.swift in Sources */,
