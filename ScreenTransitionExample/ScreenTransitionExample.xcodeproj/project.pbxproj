@@ -18,6 +18,7 @@
 		5E6716222869F319006E3565 /* ScreenTransitionExampleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6716212869F319006E3565 /* ScreenTransitionExampleUITestsLaunchTests.swift */; };
 		5E67162F2869F4F8006E3565 /* SuguePushViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E67162E2869F4F8006E3565 /* SuguePushViewController.swift */; };
 		5E671631286B38CD006E3565 /* SuguePresentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E671630286B38CD006E3565 /* SuguePresentViewController.swift */; };
+		5E671633286C9EC8006E3565 /* CodePushViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E671632286C9EC8006E3565 /* CodePushViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		5E6716212869F319006E3565 /* ScreenTransitionExampleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScreenTransitionExampleUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		5E67162E2869F4F8006E3565 /* SuguePushViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuguePushViewController.swift; sourceTree = "<group>"; };
 		5E671630286B38CD006E3565 /* SuguePresentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuguePresentViewController.swift; sourceTree = "<group>"; };
+		5E671632286C9EC8006E3565 /* CodePushViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodePushViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				5E67160C2869F319006E3565 /* Info.plist */,
 				5E67162E2869F4F8006E3565 /* SuguePushViewController.swift */,
 				5E671630286B38CD006E3565 /* SuguePresentViewController.swift */,
+				5E671632286C9EC8006E3565 /* CodePushViewController.swift */,
 			);
 			path = ScreenTransitionExample;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5E671631286B38CD006E3565 /* SuguePresentViewController.swift in Sources */,
+				5E671633286C9EC8006E3565 /* CodePushViewController.swift in Sources */,
 				5E67162F2869F4F8006E3565 /* SuguePushViewController.swift in Sources */,
 				5E6716032869F318006E3565 /* ViewController.swift in Sources */,
 				5E6715FF2869F318006E3565 /* AppDelegate.swift in Sources */,
