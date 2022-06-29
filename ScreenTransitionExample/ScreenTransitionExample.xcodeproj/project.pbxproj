@@ -19,6 +19,7 @@
 		5E67162F2869F4F8006E3565 /* SuguePushViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E67162E2869F4F8006E3565 /* SuguePushViewController.swift */; };
 		5E671631286B38CD006E3565 /* SuguePresentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E671630286B38CD006E3565 /* SuguePresentViewController.swift */; };
 		5E671633286C9EC8006E3565 /* CodePushViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E671632286C9EC8006E3565 /* CodePushViewController.swift */; };
+		5E671635286CA185006E3565 /* CodePresentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E671634286CA185006E3565 /* CodePresentViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		5E67162E2869F4F8006E3565 /* SuguePushViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuguePushViewController.swift; sourceTree = "<group>"; };
 		5E671630286B38CD006E3565 /* SuguePresentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuguePresentViewController.swift; sourceTree = "<group>"; };
 		5E671632286C9EC8006E3565 /* CodePushViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodePushViewController.swift; sourceTree = "<group>"; };
+		5E671634286CA185006E3565 /* CodePresentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodePresentViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				5E67162E2869F4F8006E3565 /* SuguePushViewController.swift */,
 				5E671630286B38CD006E3565 /* SuguePresentViewController.swift */,
 				5E671632286C9EC8006E3565 /* CodePushViewController.swift */,
+				5E671634286CA185006E3565 /* CodePresentViewController.swift */,
 			);
 			path = ScreenTransitionExample;
 			sourceTree = "<group>";
@@ -271,6 +274,7 @@
 				5E671633286C9EC8006E3565 /* CodePushViewController.swift in Sources */,
 				5E67162F2869F4F8006E3565 /* SuguePushViewController.swift in Sources */,
 				5E6716032869F318006E3565 /* ViewController.swift in Sources */,
+				5E671635286CA185006E3565 /* CodePresentViewController.swift in Sources */,
 				5E6715FF2869F318006E3565 /* AppDelegate.swift in Sources */,
 				5E6716012869F318006E3565 /* SceneDelegate.swift in Sources */,
 			);
