@@ -16,6 +16,7 @@
 		5E67165A286F215E006E3565 /* LEDBoardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E671659286F215E006E3565 /* LEDBoardTests.swift */; };
 		5E671664286F215E006E3565 /* LEDBoardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E671663286F215E006E3565 /* LEDBoardUITests.swift */; };
 		5E671666286F215E006E3565 /* LEDBoardUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E671665286F215E006E3565 /* LEDBoardUITestsLaunchTests.swift */; };
+		5E6716732870A6F6006E3565 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E6716722870A6F6006E3565 /* SettingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5E67165F286F215E006E3565 /* LEDBoardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LEDBoardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E671663286F215E006E3565 /* LEDBoardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LEDBoardUITests.swift; sourceTree = "<group>"; };
 		5E671665286F215E006E3565 /* LEDBoardUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LEDBoardUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5E6716722870A6F6006E3565 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				5E67164B286F215E006E3565 /* Assets.xcassets */,
 				5E67164D286F215E006E3565 /* LaunchScreen.storyboard */,
 				5E671650286F215E006E3565 /* Info.plist */,
+				5E6716722870A6F6006E3565 /* SettingViewController.swift */,
 			);
 			path = LEDBoard;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				5E671647286F215C006E3565 /* ViewController.swift in Sources */,
 				5E671643286F215C006E3565 /* AppDelegate.swift in Sources */,
 				5E671645286F215C006E3565 /* SceneDelegate.swift in Sources */,
+				5E6716732870A6F6006E3565 /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
